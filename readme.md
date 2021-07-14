@@ -1,7 +1,8 @@
 # Border Gateway (Router)
 
 ```bash
-Ein einfacher Router mit eingebautem DHCP, DNS und einer Firewall.
+Vagrantfile zur Installation und Autokonfiguration eines einfachen Routers, 
+mit eingebautem DHCP, DNS und einer Firewall.
 ```
 
 # Benutzung
